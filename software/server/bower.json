@@ -1,0 +1,21 @@
+{
+  "name": "server",
+  "description": "servidor central de control y comando",
+  "main": "index.js",
+  "authors": [
+    "carlosmart7104"
+  ],
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/carlosmart7104/NeXT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7"
+  }
+}

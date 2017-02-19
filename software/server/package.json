@@ -1,0 +1,11 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "servidor central de control y comando",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "carlosmart7104",
+  "license": "Apache-2.0"
+}
